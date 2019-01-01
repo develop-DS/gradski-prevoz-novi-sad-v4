@@ -1,5 +1,14 @@
 [
   {
+    "date": "1.1.2019",
+    "title": "NOV RED VOŽNJE!",
+    "sections": [
+      {
+        "text": "U aplikacija \"Gradski Prevoz Novi Sad\" koristi se red vožnje od 1.1.2019"
+      }
+    ]
+  },
+  {
     "date": "28.12.2018",
     "title": "UKIDA SE LINIJA 86 NA RELACIJI NOVI SAD - VRDNIK",
     "sections": [
@@ -76,15 +85,6 @@
     "sections": [
       {
         "text": "Od 24. 12. 2018. godine do 14. januara 2019. godine privremeno se ukidaju polasci koji su u redu vožnje označeni kao „ĐAČKI“. \nU navedenom periodu neće saobraćati linija broj 6a (Adice-Veternik OŠ „Marija Trandafil“)."
-      }
-    ]
-  },
-  {
-    "date": "1.12.2018",
-    "title": "NOV RED VOŽNJE!",
-    "sections": [
-      {
-        "text": "U aplikacija \"Gradski Prevoz Novi Sad\" koristi se red vožnje od 1.12.2018"
       }
     ]
   }
