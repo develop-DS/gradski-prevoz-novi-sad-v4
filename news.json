@@ -1,5 +1,23 @@
 [
   {
+    "date": "22.03.2019",
+    "title": "OD 22. MARTA NOVI RED VOŽNjE",
+    "sections": [
+      {
+        "text": "JGSP „Novi Sad“ obaveštava putnike da će od 22. marta 2019. godine autobusi saobraćati po izmenjenom redu vožnje. Novim redom vožnje, na osnovu dosadašnje prakse i urađene analize, polasci su vremenski usklađeni sa potrebama korisnika usluga prevoza u narednim mesecima."
+      }
+    ]
+  },
+  {
+    "date": "21.03.2019",
+    "title": "LINIJE 1, 6, 7A, 7B, 8, 11A, 11B, 12 I 13 – PRIVREMENA IZMENA TRASE 24. MARTA",
+    "sections": [
+      {
+        "text": "JGSP Novi Sad obaveštava korisnike usluga prevoza da će zbog održavanja polumaratonske trke u nedelju, 24. marta 2019. godine, u vremenu od 10:45 do 14:00 časova doći do privremene izmene autobuskih trasa na gradskim linijama 1, 6, 7A, 7B, 8, 11A, 11B, 12 i 13.\n\nLINIJE 1 i 8\nAutobusi na Limanu 2 iz Fruškogorske ulice skretaće desno u ulicu Narodnog fronta, zatim desno na Bulevar oslobođenja, odakle će skretati desno na Bulevar cara Lazara do Fruškogorske ulice i dalje će nastavljati postojećom (redovnom) trasom.\nVreme do sledećeg polaska autobusi će izdržavati na stajalištu Narodni front – Fruškogorska.\n\nLINIJE 7A i 7B\nU oba smera autobusi će umesto Bulevarom patrijarha Pavla saobraćati ulicama Futoški put, Futoška, Cara Dušana, Bulevarom cara Lazara, Balzakovom do Narodnog fronta, odakle će nastavljati redovnom trasom.\n\nLINIJE 6, 11A, 11B i 12\nAutobusi neće saobraćati za vreme trajanja polumaratonske trke.\n\nLINIJA 13 \nUmesto Bulevarom Evrope autobusi će u smeru Detelinara-Univerzitet saobraćati ulicama Futoška, Cara Dušana, Bulevarom cara Lazara do Bulevara oslobođenja, odakle će skretati desno u Fruškogorsku ulicu do stajališta Narodnog fronta-Fruškogorska. \nU smeru Univerzitet-Detelinara autobusi će od raskrsnice Bulevar oslobođenja/Bulevar cara Lazara saobraćati redovnom trasom.\nOkretanje na Limanu obavljaće se tako što će sa Bulevara cara Lazara desnim skretanjem autobusi ulaziti u Fruškogorsku ulicu, zatim će saobraćati Ulicom Narodnog fronta i Bulevarom oslobođenja do Bulevara cara Lazara, odakle će nastavljati postojećom (redovnom) trasom.\nVreme do sledećeg polaska autobusi će izdržavati na stajalištu Narodni front – Fruškogorska.\n\nNA IZMENjENIM DELOVIMA TRASE LINIJE 1, 8 i 13 KORISTIĆE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA."
+      }
+    ]
+  },
+  {
     "date": "17.03.2019",
     "title": "LINIJE 7,7A,18,18A - POVRATAK NA REDOVNU TRASU",
     "sections": [
@@ -58,15 +76,6 @@
       {
         "subtitle": "LINIJA BROJ 15",
         "text": "SMER SA KLISE \nAutobusi od kružne raskrsnice ulica Sentandrejski put i Primorske nastavljaju pravo Primorskom ulicom, desno na Temerinski put preko Temerinskog mosta, desno u Partizansku ulicu pa levo u Kisačku ulicu i dalje nastavljaju redovnom trasom kretanja.\n\nSMER PREMA KLISI \nOd raskrsnice ulica Bulevar Jaše Tomića i Kisačke autobusi saobraćaju desno u Kisačku ulicu, levo u Ulicu Jovana Cvijića, levo u Temerinsku ulicu, dalje Temerinskim putem do Primorske ulice, levo u Primorsku ulicu do kružne raskrsnice i dalje nastavljaju redovnom trasom kretanja."
-      }
-    ]
-  },
-  {
-    "date": "01.01.2019",
-    "title": "STATUS PODATAKA REDA VOŽNJE",
-    "sections": [
-      {
-        "text": "Aplikacija \"Gradski Prevoz Novi Sad\" koristi red vožnje ažuriran 01.01.2019"
       }
     ]
   },
