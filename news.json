@@ -1,28 +1,37 @@
 [
   {
+    "date": "01.04.2019",
+    "title": "LINIJE 1 I 35 - PRIVREMENA IZMENA TRASE OD SENTANDREJSKOG MOSTA",
+    "sections": [
+      {
+        "text": "Autobusi na linijama 1 i 35 od 30. marta ponovo saobraćaju Sentandrejskim mostom. Od kružnog toka i dalje je na snazi privremena izmena trase."
+      }
+    ]
+  },
+  {
+    "date": "01.04.2019",
+    "title": "LINIJE 9, 9A, 12 – PRIVREMENA IZMENA TRASE NA LIMANU",
+    "sections": [
+      {
+        "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 2. do 16. aprila 2019. godine privremeno će biti izmenjena trasa autobuskih linija broj 9, 9A i 12. Zbog radova na rekonstrukciji vrelovoda na Bulevaru cara Lazara u zoni raskrsnice sa Šekspirovom ulicom, na izmenjenom delu trase autobusi će saobraćati na sledeći način: \n\nSMER OD CENTRA \nRaskrsnica ulica Bulevar cara Lazara i Šekspirova – (levo) Šekspirova ulica – (desno) Ulica Narodnog fronta – (desno) Balzakova ulica – (levo) Bulevar cara Lazara - redovna trasa kretanja.\n\nSMER PREMA CENTRU\nRaskrsnica ulica Bulevar cara Lazara i Balzakova – (desno) Balzakova ulica – (levo) Ulica Narodnog fronta – (levo) Šekspirova ulica – (desno) Bulevar cara Lazara - redovna trasa kretanja. \n\nNA IZMENjENOM DELU TRASE KORISTIĆE SE DVA PRIVREMENA STAJALIŠTA:\n- ŠEKSPIROVA ULICA (NASPRAM KBR. 5)\n- BALZAKOVA ULICA (NEPOSREDNO NAKON SKRETANjA SA BULEVARA CARA LAZARA)"
+      }
+    ]
+  },
+  {
+    "date": "30.03.2019",
+    "title": "LINIJA 15 - POVRATAK NA REDOVNU TRASU SENTANDREJSKIM MOSTOM",
+    "sections": [
+      {
+        "text": "Autobusi na liniji 15 od 30. marta saobraćaju redovnom trasom. Uslovi za povratak na redovnu trasu stekli su se završetkom radova na rehabilitaciji Sentandrejskog mosta."
+      }
+    ]
+  },
+  {
     "date": "22.03.2019",
     "title": "OD 22. MARTA NOVI RED VOŽNjE",
     "sections": [
       {
         "text": "JGSP „Novi Sad“ obaveštava putnike da će od 22. marta 2019. godine autobusi saobraćati po izmenjenom redu vožnje. Novim redom vožnje, na osnovu dosadašnje prakse i urađene analize, polasci su vremenski usklađeni sa potrebama korisnika usluga prevoza u narednim mesecima."
-      }
-    ]
-  },
-  {
-    "date": "21.03.2019",
-    "title": "LINIJE 1, 6, 7A, 7B, 8, 11A, 11B, 12 I 13 – PRIVREMENA IZMENA TRASE 24. MARTA",
-    "sections": [
-      {
-        "text": "JGSP Novi Sad obaveštava korisnike usluga prevoza da će zbog održavanja polumaratonske trke u nedelju, 24. marta 2019. godine, u vremenu od 10:45 do 14:00 časova doći do privremene izmene autobuskih trasa na gradskim linijama 1, 6, 7A, 7B, 8, 11A, 11B, 12 i 13.\n\nLINIJE 1 i 8\nAutobusi na Limanu 2 iz Fruškogorske ulice skretaće desno u ulicu Narodnog fronta, zatim desno na Bulevar oslobođenja, odakle će skretati desno na Bulevar cara Lazara do Fruškogorske ulice i dalje će nastavljati postojećom (redovnom) trasom.\nVreme do sledećeg polaska autobusi će izdržavati na stajalištu Narodni front – Fruškogorska.\n\nLINIJE 7A i 7B\nU oba smera autobusi će umesto Bulevarom patrijarha Pavla saobraćati ulicama Futoški put, Futoška, Cara Dušana, Bulevarom cara Lazara, Balzakovom do Narodnog fronta, odakle će nastavljati redovnom trasom.\n\nLINIJE 6, 11A, 11B i 12\nAutobusi neće saobraćati za vreme trajanja polumaratonske trke.\n\nLINIJA 13 \nUmesto Bulevarom Evrope autobusi će u smeru Detelinara-Univerzitet saobraćati ulicama Futoška, Cara Dušana, Bulevarom cara Lazara do Bulevara oslobođenja, odakle će skretati desno u Fruškogorsku ulicu do stajališta Narodnog fronta-Fruškogorska. \nU smeru Univerzitet-Detelinara autobusi će od raskrsnice Bulevar oslobođenja/Bulevar cara Lazara saobraćati redovnom trasom.\nOkretanje na Limanu obavljaće se tako što će sa Bulevara cara Lazara desnim skretanjem autobusi ulaziti u Fruškogorsku ulicu, zatim će saobraćati Ulicom Narodnog fronta i Bulevarom oslobođenja do Bulevara cara Lazara, odakle će nastavljati postojećom (redovnom) trasom.\nVreme do sledećeg polaska autobusi će izdržavati na stajalištu Narodni front – Fruškogorska.\n\nNA IZMENjENIM DELOVIMA TRASE LINIJE 1, 8 i 13 KORISTIĆE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA."
-      }
-    ]
-  },
-  {
-    "date": "17.03.2019",
-    "title": "LINIJE 7,7A,18,18A - POVRATAK NA REDOVNU TRASU",
-    "sections": [
-      {
-        "text": "Autobusi na linijama 7, 7A, 18, 18A, kao i polasci iz Futoga za zonu Sever, od 16. 03. 2019. godine (12 časova) ponovo saobraćaju redovnom trasom."
       }
     ]
   },
@@ -45,24 +54,6 @@
     ]
   },
   {
-    "date": "27.02.2019",
-    "title": "POJAČANI POLASCI ZBOG ZADUŠNICA",
-    "sections": [
-      {
-        "text": "JGSP „Novi Sad“ obaveštava korisnike usluga da će u subotu, 02. marta 2019. godine, zbog verskog praznika Zadušnice na liniji broj 14 biti angažovani zglobni autobusi, a po potrebi biće uvedeni i dodatni polasci. Umesto solo vozila, zglobni autobusi saobraćaće i na polascima za Čenej u 10:30 i 11:45 časova.\nAutobusi na liniji broj 53 na polascima u 8.40 i 9.50 časova saobraćaće do futoškog groblja (povratak je u 9.30, odnosno u 10.40 časova)."
-      }
-    ]
-  },
-  {
-    "date": "22.02.2019",
-    "title": "LINIJA 7A, 7B, 18A I 18 – PRIVREMENA IZMENA TRASE NA NOVOM NASELjU",
-    "sections": [
-      {
-        "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve od 25. februara 2019. godine određena je privremena izmena trasa autobuskih linija broj 7A, 7B, 18A i 18, kao i polazaka iz Futoga za zonu Sever. Zbog radova na izgradnji vrelovoda i vrelovodnih priključaka na Bulevaru Slobodana Jovanovića (zona raskrsnice sa Bulevarom Vojvode Stepe), autobusi na navedenim linijama menjaju trasu kretanja na sledeći način:\n\nSMER SA NOVOG NASELjA\nOd raskrsnice ulica Bulevar Jovana Dučića i Bulevar Slobodana Jovanovića autobusi saobraćaju pravo Ulicom Radomira Raše Radujkova, zatim levo skreću na Bulevar Evrope, desno u Ulicu Kornelija Stankovića i dalje nastavljaju redovnom trasom kretanja.\n\nSMER PREMA NOVOM NASELjU\nOd kružne raskrsnice Ulice Kornelija Stankovića i Bulevara Evrope autobusi skreću levo na Bulevar Evrope, zatim desno u Ulicu Radomira Raše Radujkova i saobraćaju do Bulevara Jovana Dučića i dalje nastavljaju redovnom trasom kretanja."
-      }
-    ]
-  },
-  {
     "date": "15.01.2019",
     "title": "LINIJE 1, 15 I 35 – PRODUŽENA PRIVREMENA IZMENA TRASE",
     "sections": [
@@ -76,15 +67,6 @@
       {
         "subtitle": "LINIJA BROJ 15",
         "text": "SMER SA KLISE \nAutobusi od kružne raskrsnice ulica Sentandrejski put i Primorske nastavljaju pravo Primorskom ulicom, desno na Temerinski put preko Temerinskog mosta, desno u Partizansku ulicu pa levo u Kisačku ulicu i dalje nastavljaju redovnom trasom kretanja.\n\nSMER PREMA KLISI \nOd raskrsnice ulica Bulevar Jaše Tomića i Kisačke autobusi saobraćaju desno u Kisačku ulicu, levo u Ulicu Jovana Cvijića, levo u Temerinsku ulicu, dalje Temerinskim putem do Primorske ulice, levo u Primorsku ulicu do kružne raskrsnice i dalje nastavljaju redovnom trasom kretanja."
-      }
-    ]
-  },
-  {
-    "date": "28.12.2018",
-    "title": "UKIDA SE LINIJA 86 NA RELACIJI NOVI SAD - VRDNIK",
-    "sections": [
-      {
-        "text": "JGSP „Novi Sad“ obaveštava korisnike usluge prevoza da se od 1. januara 2019. godine ukida linija 86 na relaciji Novi Sad-Vrdnik. \nNa osnovu učestalih zahteva građana, kao i zahteva upućenih od strane predstavnika opštine Irig, linija 86 je uvedena 1. oktobra 2018. godine, s tim da je dogovoreno da se prate parametri njenog korišćenja i ekonomske isplativosti. Nakon tri meseca svakodnevnog praćenja saobraćanja linije 86, ustanovljena je veoma mala iskorišćenost kapaciteta, koja je neodrživa sa stanovišta racionalnog tržišnog poslovanja. Takođe, urađena ekonomska analiza nije potvrdila opravdanost daljeg postojanja linije do Vrdnika, pa je Nadzorni odbor preduzeća doneo odluku o njenom ukidanju."
       }
     ]
   }
