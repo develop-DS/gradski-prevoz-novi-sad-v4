@@ -504,7 +504,7 @@
     },
     {
         "date": "2019-03-21T23:00:00.000Z",
-        "info": ["IL = IZ LIRA", "LIR = ZA LIR"],
+        "info": [],
         "id": "2",
         "weekday": {
             "starting_points_a": [
@@ -2419,8 +2419,6 @@
         "date": "2019-03-21T23:00:00.000Z",
         "info": [
             "D = DO DANUBIUSA PRISTANISNA ZONA",
-            "IL = IZ LIRA",
-            "LIR = ZA LIR",
             "NĐ = DO NOVITETA ĐAČKI",
             "NRD = NISKOPODNI SA RAMPOM DO DANUBIUSA"
         ],
@@ -5654,16 +5652,16 @@
                 "06:05NP",
                 "06:35NP",
                 "07:00NP",
-                "07:30NK",
                 "07:30APT",
+                "07:30NK",
                 "09:30NK",
                 "12:30NP",
                 "13:20NK",
                 "13:20NK",
                 "13:30APT",
                 "17:20NK",
-                "21:30APT",
-                "21:30NK"
+                "21:30NK",
+                "21:30APT"
             ],
             "starting_points_b": [
                 "06:15KN",
@@ -6523,8 +6521,8 @@
                 "12:10",
                 "12:30",
                 "13:10",
-                "14:05",
                 "14:05AKN",
+                "14:05",
                 "14:15",
                 "14:35",
                 "15:00",
@@ -7262,7 +7260,7 @@
     },
     {
         "date": "2019-03-21T23:00:00.000Z",
-        "info": ["IL = IZ LIRA", "LIR = ZA LIR", "SP = SAOBRACA SAMO PETKOM"],
+        "info": ["SP = SAOBRACA SAMO PETKOM"],
         "id": "52",
         "weekday": {
             "starting_points_a": [
@@ -7391,7 +7389,7 @@
     },
     {
         "date": "2019-03-21T23:00:00.000Z",
-        "info": ["IL = IZ LIRA", "LIR = ZA LIR"],
+        "info": [],
         "id": "53",
         "weekday": {
             "starting_points_a": [
@@ -9126,8 +9124,8 @@
         "id": "76",
         "weekday": {
             "starting_points_a": [
-                "04:55TLB",
                 "04:55",
+                "04:55TLB",
                 "06:10",
                 "07:05NL",
                 "07:30NL",
